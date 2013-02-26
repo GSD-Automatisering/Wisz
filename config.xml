@@ -8,10 +8,10 @@
 
 
   <author>GSD-Automatisering E.Grunschel</author>
-  <name>WISZ</name>
+  <name>WISZ Stimulansz</name>
 
   <description>
-
+Met WiSZ Professional, het managementinformatiesysteem van Stimulansz, is het mogelijk om snel over actuele en accurate informatie te beschikken. WiSZ koppelt namelijk verschillende bronnen aan elkaar (bijvoorbeeld een uitkeringsysteem, financieel systeem en een personeelssysteem)en zet de informatie om in dezelfde ‘taal’. Vervolgens ontstaat er een logische samenhang en kunt u een eenvoudige vergelijking maken. Zo krijgt u één overzicht gebaseerd op de Balanced Score Card en kunt u analyseren en strategisch sturen. WiSZ maakt het mogelijk een aanzienlijk deel van de reguliere activiteiten van een gemeentelijk bedrijfsbureau te automatiseren.
   </description>
 
 	<preference name="stay-in-webview" value="true" />
